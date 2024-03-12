@@ -1,0 +1,21 @@
+/* Contact.css */
+.contact-container {
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+    background-color: #ecf0f1;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-heading {
+    color: #e74c3c;
+    font-size: 24px;
+  }
+  
+  .contact-content {
+    color: #888;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  

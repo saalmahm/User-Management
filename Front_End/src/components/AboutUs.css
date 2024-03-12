@@ -1,0 +1,21 @@
+/* AboutUs.css */
+.about-us-container {
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-us-heading {
+    color: #27ae60;
+    font-size: 24px;
+  }
+  
+  .about-us-content {
+    color: #555;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  

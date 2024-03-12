@@ -1,0 +1,29 @@
+nav {
+    background-color: #f8f8f8; /* Couleur de fond de la barre de navigation */
+    padding: 15px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Ombre légère */
+  }
+  
+  ul {
+    list-style-type: none; /* Supprimer les puces de la liste */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around; /* Aligner les éléments de la liste horizontalement */
+  }
+  
+  li {
+    margin: 0;
+  }
+  
+  Link {
+    text-decoration: none; /* Supprimer la soulignement par défaut du lien */
+    color: #333; /* Couleur du texte des liens */
+    font-weight: bold; /* Gras pour mettre en évidence les liens */
+    transition: color 0.3s ease-in-out; /* Animation de transition pour une expérience utilisateur fluide */
+  }
+  
+  Link:hover {
+    color: #007bff; /* Couleur du texte lorsqu'on survole le lien */
+  }
+  

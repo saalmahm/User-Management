@@ -1,0 +1,21 @@
+/* Home.css */
+.home-container {
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .home-heading {
+    color: #3498db;
+    font-size: 24px;
+  }
+  
+  .home-content {
+    color: #333;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
